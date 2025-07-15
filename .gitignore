@@ -1,0 +1,8 @@
+Debug/
+Release/
+*.exe
+*.obj
+*.sdf
+*.opensdf
+LOGIN SYSTEM.vcxproj.user
+.vs/
